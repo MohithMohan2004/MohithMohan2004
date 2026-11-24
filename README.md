@@ -39,7 +39,6 @@
 - **[sharkfromspace](https://github.com/MohithMohan2004/sharkfromspace)** ![stars](https://img.shields.io/github/stars/MohithMohan2004/sharkfromspace?style=flat-square&color=e3b341&label=) Estimates the probability of shark presence at a location. NASA Space Apps 2025 Local Award.
 - **[disaster-relief](https://github.com/MohithMohan2004/disaster-relief)** ![stars](https://img.shields.io/github/stars/MohithMohan2004/disaster-relief?style=flat-square&color=e3b341&label=) Generates risk maps from historical natural-disaster data using ML.
 - **[qec-decoder](https://github.com/MohithMohan2004/qec-decoder)** ![stars](https://img.shields.io/github/stars/MohithMohan2004/qec-decoder?style=flat-square&color=e3b341&label=) Surface-code decoder for quantum error correction: PyMatching against neural-network decoders.
-- **[Talently](https://github.com/MohithMohan2004/Talently)** ![stars](https://img.shields.io/github/stars/MohithMohan2004/Talently?style=flat-square&color=e3b341&label=) Java project. (Add one line on what it does.)
 
 ## GitHub Stats
 
