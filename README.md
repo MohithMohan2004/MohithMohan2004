@@ -1,15 +1,19 @@
-<h2 align="center">Hi, I'm Mohith Mohan</h2>
+<h2 align="center">Mohith Mohan</h2>
 
 <p align="center">
-  <b>AI and ML engineer in the making. I'm a B.Tech CSE (AI &amp; ML) student at Dayananda Sagar University, Bangalore, building generative AI tools, risk predictors and data platforms. NASA Space Apps Challenge 2025 Local Award winner.</b>
+  B.Tech Computer Science (AI &amp; ML) student at Dayananda Sagar University, Bangalore.
 </p>
 
-- Currently an **SDE Intern at Puravankara Limited**, working on ReFlo
-- Writing IEEE papers on **Brandora** and **surface-code decoding**
-- Ask me about **Machine Learning, Generative AI, Python and Data Projects**
-- Reach me at [mohith.mohan10102004@gmail.com](mailto:mohith.mohan10102004@gmail.com)
+## Currently
 
-## Socials
+SDE Intern at Puravankara Limited, Bangalore.
+
+## Achievements
+
+Local Award winner, NASA Space Apps Challenge 2025 (Sharks from Space).<br>
+Finalist, Zerodha Varsity Quiz 2025.
+
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohith-mohan-660a44256/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohith.mohan10102004@gmail.com)
@@ -30,19 +34,20 @@
 ![Tableau](https://img.shields.io/badge/TABLEAU-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## Projects
 
-- **[Brandora](https://github.com/MohithMohan2004/Brandora)** ![stars](https://img.shields.io/github/stars/MohithMohan2004/Brandora?style=flat-square&color=e3b341&label=) AI advertisement generator that produces brand-specific, customizable marketing content using cloud generative AI. Capstone project.
-- **[ReFlow-AI](https://github.com/MohithMohan2004/ReFlow-AI)** ![stars](https://img.shields.io/github/stars/MohithMohan2004/ReFlow-AI?style=flat-square&color=e3b341&label=) Matches Bengaluru sewage treatment plants with buyers of treated wastewater.
-- **[sharkfromspace](https://github.com/MohithMohan2004/sharkfromspace)** ![stars](https://img.shields.io/github/stars/MohithMohan2004/sharkfromspace?style=flat-square&color=e3b341&label=) Estimates the probability of shark presence at a location. NASA Space Apps 2025 Local Award.
-- **[disaster-relief](https://github.com/MohithMohan2004/disaster-relief)** ![stars](https://img.shields.io/github/stars/MohithMohan2004/disaster-relief?style=flat-square&color=e3b341&label=) Generates risk maps from historical natural-disaster data using ML.
-- **[qec-decoder](https://github.com/MohithMohan2004/qec-decoder)** ![stars](https://img.shields.io/github/stars/MohithMohan2004/qec-decoder?style=flat-square&color=e3b341&label=) Surface-code decoder for quantum error correction: PyMatching against neural-network decoders.
+| | |
+|---|---|
+| [**Brandora**](https://github.com/MohithMohan2004/Brandora) | Brand-specific advertisement generator built on cloud generative AI. Capstone project. |
+| [**ReFlow-AI**](https://github.com/MohithMohan2004/ReFlow-AI) | Matches Bengaluru sewage treatment plants with buyers of treated wastewater. |
+| [**sharkfromspace**](https://github.com/MohithMohan2004/sharkfromspace) | Estimates the probability of shark presence at a location. NASA Space Apps 2025. |
+| [**disaster-relief**](https://github.com/MohithMohan2004/disaster-relief) | Generates risk maps from historical natural-disaster data. |
+| [**qec-decoder**](https://github.com/MohithMohan2004/qec-decoder) | Surface-code decoder for quantum error correction, comparing PyMatching with neural decoders. |
 
 ## GitHub Stats
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MohithMohan2004&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohithMohan2004&layout=compact&theme=radical&hide_border=true" alt="Top languages">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MohithMohan2004&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohithMohan2004&layout=compact&theme=github_dark&hide_border=true" alt="Top languages">
 </p>
