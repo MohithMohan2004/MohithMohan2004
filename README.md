@@ -1,17 +1,11 @@
 <h2 align="center">Mohith Mohan</h2>
 
 <p align="center">
-  B.Tech Computer Science (AI &amp; ML) student at Dayananda Sagar University, Bangalore.
+  B.Tech Computer Science (AI &amp; ML) student at Dayananda Sagar University, Bangalore.<br>
+  SDE Intern at Puravankara Limited.<br>
+  Local Award winner, NASA Space Apps Challenge 2025 (Sharks from Space).<br>
+  Finalist, Zerodha Varsity Quiz 2025.
 </p>
-
-## Currently
-
-SDE Intern at Puravankara Limited, Bangalore.
-
-## Achievements
-
-Local Award winner, NASA Space Apps Challenge 2025 (Sharks from Space).<br>
-Finalist, Zerodha Varsity Quiz 2025.
 
 ## Connect
 
